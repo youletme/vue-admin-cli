@@ -1,6 +1,6 @@
 {
-  "name": "vue-admin-cli",
-  "version": "1.0.0",
+  "name": "vue-renren-admin-cli",
+  "version": "1.0.2",
   "description": "管理平台开发脚手架工具",
   "main": "index.js",
   "bin": {
@@ -36,5 +36,17 @@
     "string.prototype.padstart": "^3.0.0",
     "valid-filename": "^3.1.0",
     "validate-npm-package-name": "^3.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youletme/vue-admin-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/youletme/vue-admin-cli/issues"
+  },
+  "homepage": "https://github.com/youletme/vue-admin-cli#readme"
 }

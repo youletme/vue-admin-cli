@@ -7,7 +7,7 @@
 
 🍎 安装脚手架
 ```bash
-npm i -g vue-admin-cli
+npm i -g vue-renren-admin-cli
 ```
 
 🍏 使用脚手架创建项目
@@ -20,6 +20,3 @@ vue-admin create project-name
 ```bash
 vue-admin page page-name
 ```
-
-QQ交流群：<br />
-![](./IMG_4546.JPG)
