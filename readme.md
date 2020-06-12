@@ -13,12 +13,12 @@ npm i -g vue-admin-cli
 🍏 使用脚手架创建项目
 
 ```bash
-awesome-test create project-name
+vue-admin create project-name
 ```
 
 🍌 新建页面
 ```bash
-awesome-test page page-name
+vue-admin page page-name
 ```
 
 QQ交流群：<br />

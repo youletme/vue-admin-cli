@@ -4,7 +4,7 @@
   "description": "管理平台开发脚手架工具",
   "main": "index.js",
   "bin": {
-    "admin": "bin/main.js"
+    "vue-admin": "bin/main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
