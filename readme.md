@@ -7,7 +7,7 @@
 
 🍎 安装脚手架
 ```bash
-npm i -g awesome-test-cli
+npm i -g vue-admin-cli
 ```
 
 🍏 使用脚手架创建项目

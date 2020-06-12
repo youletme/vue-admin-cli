@@ -1,20 +1,20 @@
 {
-  "name": "awesome-test-cli",
+  "name": "vue-admin-cli",
   "version": "1.0.0",
-  "description": "合一带大家开发脚手架工具",
+  "description": "管理平台开发脚手架工具",
   "main": "index.js",
   "bin": {
-    "awesome-test": "bin/main.js"
+    "admin": "bin/main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "scaffold",
-    "efficient",
-    "react"
+    "cli",
+    "admin",
+    "vue"
   ],
-  "author": "walker",
+  "author": "yujiajun",
   "license": "ISC",
   "engines": {
     "node": ">=8.9"

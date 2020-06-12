@@ -21,7 +21,7 @@ function checkNodeVersion (wanted, id) {
   }
 }
 
-checkNodeVersion(requiredVersion, 'awesome-test-cli')
+checkNodeVersion(requiredVersion, 'vue-admin-cli')
 
 if (semver.satisfies(process.version, '9.x')) {
   console.log(chalk.red(
