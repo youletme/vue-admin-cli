@@ -1,6 +1,6 @@
 {
   "name": "vue-renren-admin-cli",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "管理平台开发脚手架工具",
   "main": "index.js",
   "bin": {
