@@ -7,7 +7,7 @@
 
 🍎 安装脚手架
 ```bash
-npm i -g vue-renren-admin-cli
+npm i -g vue-admin-dbs-cli
 ```
 
 🍏 使用脚手架创建项目

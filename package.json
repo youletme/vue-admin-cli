@@ -1,7 +1,7 @@
 {
-  "name": "vue-renren-admin-cli",
-  "version": "1.0.5",
-  "description": "管理平台开发脚手架工具",
+  "name": "vue-admin-dbs-cli",
+  "version": "1.0.0",
+  "description": "搭把手管理平台开发脚手架工具",
   "main": "index.js",
   "bin": {
     "vue-admin": "bin/main.js"
