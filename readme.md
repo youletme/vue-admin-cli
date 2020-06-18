@@ -17,6 +17,8 @@ vue-admin create project-name  创建的是初始化版本
 
 vue-admin create project-name --preset demo  可以创建项目demo
 
+vue-admin create project-name --preset tsDemo  可以创建项目demo  该版本支持tsx  ts  以及vue使用jsx语法
+
 ```
 
 🍌 新建页面
