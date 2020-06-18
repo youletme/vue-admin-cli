@@ -1,6 +1,6 @@
 {
   "name": "vue-admin-dbs-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "搭把手管理平台开发脚手架工具",
   "main": "index.js",
   "bin": {
