@@ -13,7 +13,9 @@ npm i -g vue-admin-dbs-cli
 🍏 使用脚手架创建项目
 
 ```bash
-vue-admin create project-name  创建的是初始化版本
+vue-admin create project-name  创建的是初始化版本 js版本
+
+vue-admin create project-name --preset tsInit 创建的是初始化版本  ts版本
 
 vue-admin create project-name --preset demo  可以创建项目demo
 
