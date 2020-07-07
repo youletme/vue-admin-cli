@@ -1,8 +1,8 @@
 <template>
   <div>
     <pagination-table
-      ref="{{lowerName}}-list"
-      :table-columns='tableColumns'
+      ref="{{lowerName}}List"
+      :table-columns="tableColumns"
       :get-list-url="'/sys/{{lowerName}}/list'"
       :delete-url="''"
       :saveOrUpdateUrl="'/sys/{{lowerName}}'"
@@ -26,13 +26,11 @@ export default {
       tableColumns: [
         {
           prop: 'id',
-          headerAlign: 'center',
-          align: 'center',
           width: '80',
           label: 'ID',
           notInForm: true
         }
-      ]
+      ].map(a => ({ ...a, ...{ headerAlign: "center", align: "center" } }))
 
     }
   },
