@@ -6,8 +6,8 @@
       :get-list-url="'/sys/{{lowerName}}/list'"
       :delete-url="''"
       :saveOrUpdateUrl="'/sys/{{lowerName}}'"
-      :getFormDateUrl="'/sys/{{lowerName}}/view'"
-      :useDefultOperate="false"
+      :getFormDataUrl="'/sys/{{lowerName}}/view'"
+      :useDefaultOperate="false"
       :addOrUpdateDialogWidth="'30%'"
       :onlyCanSaveAndChange="true"
     >
